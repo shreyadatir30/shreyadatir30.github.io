@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "My Recent Work"
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
@@ -11,7 +11,7 @@ I am a Master’s student in Computer Engineering at Virginia Tech, currently co
 
 ---
 
-## Checkout My Blogs  
+## My recent Work  
 
 I’ve been writing a **3-part blog series** on designing and testing a UART-based communication system on FPGA (Zynq ZC702 board). The series walks through **RTL design, simulation, and PS–PL integration using Vitis**, providing a complete workflow from theory to on-board validation.  
 
