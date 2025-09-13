@@ -11,7 +11,7 @@ I am a Master’s student in Computer Engineering at Virginia Tech, currently co
 
 ---
 
-## My recent Work  
+## My Recent Work  
 
 I’ve been writing a **3-part blog series** on designing and testing a UART-based communication system on FPGA (Zynq ZC702 board). The series walks through **RTL design, simulation, and PS–PL integration using Vitis**, providing a complete workflow from theory to on-board validation.  
 
