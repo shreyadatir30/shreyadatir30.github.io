@@ -7,7 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a Master’s student in Computer Engineering at Virginia Tech, currently contributing to research at the Brain-Inspired Computing and Communications (BRICC) Lab. My work focuses on digital design and hardware systems, with interests in computer architecture, verification, and neuromorphic computing.
+I am a Master’s student in Computer Engineering at Virginia Tech with an interest in digital design and computer architecture. My recent work centers on FPGA design and verification, and at the BRICC Lab I’ve been able to apply these skills in research projects that connect academic ideas with practical hardware implementations.
+
+This website is a space where I share my progress: documenting the projects I work on, the challenges I tackle, and the research I’ve been contributing to at the lab. My goal is to make it both a record of my learning journey and a resource for others interested in digital design and hardware systems. 
 
 ---
 
