@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpeg"
   name             : "Shreya Datir"
   pronouns         : # example: "she/her"  
   bio              : "I am a Master’s student in Computer Engineering at Virginia Tech, currently contributing to research at the Brain-Inspired Computing and Communications (BRICC) Lab. My work focuses on digital design and hardware systems, with interests in computer architecture, verification, and neuromorphic computing."
